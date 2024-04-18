@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=y-pranav&label=Profile%20views&color=0e75b6&style=flat" alt="y-pranav" /> </p>
 
-- 🔭 I’m currently working on **MoboAI**
+- 🔭 I’m currently working on <a href="https://www.moboai.in" target="_blank"> **MoboAI** </a> 
 
 - 🌱 I’m currently learning **NextJS**
 
