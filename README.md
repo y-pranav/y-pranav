@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on <a href="https://www.moboai.in">MoboAI</a>
 
-- 🌱 I’m currently learning **NextJS and Neural Networks**
+- 🌱 I’m currently learning **Neural Networks and NextJS**
 
 - 📫 How to reach me **yyvrpranav@gmail.com**
 
